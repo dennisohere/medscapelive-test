@@ -1,0 +1,28 @@
+{
+	"applinks": {
+		"details": [
+			{
+				"appIDs": [
+					"KXY73GR453.com.webmd.MedscapeLive",
+					"KXY73GR453.com.webmd.MedscapeLive.prod",
+					"8LTG3VGR5L.com.medscape.live",
+					"8LTG3VGR5L.com.medscape.live.prod"
+				],
+				"components": [
+					{
+						"/": "/live-event/check-in/*",
+						"comment": "Check in Universal link"
+					},
+					{
+						"/": "/api/reg/event-link",
+						"?": {
+							"liveEventId": "*",
+							"joinPreference": "*"
+						},
+						"comment": "Register to event Universal link"
+					}
+				]
+			}
+		]
+	}
+}

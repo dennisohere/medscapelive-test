@@ -1,0 +1,8 @@
+export const HOME = '/'
+export const EVENTS = '/events'
+export const ABOUT = '/about'
+export const CHECK_IN_PATH = '/live-event/check-in/'
+export const CONTACT_US_LINK = 'mailto:events@medscapelive.com'
+export const SUPPORT_LINK = 'mailto:support@medscapelive.com'
+export const RESOURCE_REDIRECT = '/live-event/resource-link/'
+export const EVENT_DETAILS = 'https://na.eventscloud.com/website/'

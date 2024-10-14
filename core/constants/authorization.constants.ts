@@ -1,0 +1,2 @@
+export const DB_SERVICE_AUTH_USER_NAME = 'DBServiceUser'
+export const GLOBAL_P2P_REGISTRATION_ERROR = '4003'

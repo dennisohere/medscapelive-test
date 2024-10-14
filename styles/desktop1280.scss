@@ -1,0 +1,50 @@
+@import './variables.scss';
+
+@media (max-width: map-get($display-breakpoints, 'lg-and-up')) {
+    body {
+        font-family: $default-font-family;
+        font-size: 18px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+    }
+
+    b {
+        font-weight: 600;
+    }
+
+    p {
+        font-size: 18px;
+        line-height: 1.5;
+    }
+
+    p span {
+        font-size: 20px;
+    }
+
+    h1 {
+        font-size: 34px;
+        font-weight: bold;
+        line-height: normal;
+    }
+
+    h2 {
+        font-size: 28px;
+        font-weight: bold;
+        line-height: normal;
+    }
+
+    h3 {
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    h4 { // inter-text titles
+        font-size: 19px;
+        font-weight: 600;
+        line-height: 1.16;
+    }
+}
+

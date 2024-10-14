@@ -1,0 +1,169 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`MdscpFooter.vue > render > matches the snapshot 1`] = `
+<div>
+  <div
+    class="mdscp-footer-top"
+  >
+    <div
+      class="mdscp-footer-top-main mdscp-footer-top-container"
+    >
+      <div
+        class="mdscp-footer-top-logo"
+      >
+        <img
+          alt="logo of medscape"
+          class="footer-image"
+          src="/static_vue/medscape-live-web/img/medscape-logo.png"
+          title="medscape logo"
+        />
+      </div>
+    </div>
+    <div
+      class="mdscp-footer-top-main mdscp-footer-top-container"
+    >
+      <div
+        class="mdscp-footer-top-social"
+      >
+        <h4>
+          Find Us On
+        </h4>
+        
+        <a
+          alt="Facebook"
+          href="https://www.facebook.com/medscape"
+          target="_self"
+        >
+          <img
+            alt="Facebook"
+            src="/static_vue/medscape-live-web/img/facebook.svg"
+            title="facebook icon"
+          />
+        </a>
+        <a
+          alt="Twitter"
+          href="https://twitter.com/medscapelive"
+          target="_self"
+        >
+          <img
+            alt="Twitter"
+            src="/static_vue/medscape-live-web/img/twitter.svg"
+            title="twitter icon"
+          />
+        </a>
+        
+      </div>
+      <div
+        class="mdscp-footer-top-section"
+      >
+        <div
+          class="mdscp-footer-top-col"
+        >
+          <h4>
+            About
+          </h4>
+          
+          
+          <a
+            href="https://www.medscape.com/public/privacy"
+          >
+            Privacy Policy
+          </a>
+          
+          
+          <a
+            href="https://www.medscape.com/public/cookies"
+          >
+            Cookies
+          </a>
+          
+          
+          <div
+            class="mt-3"
+            id="teconsent"
+          />
+        </div>
+        <div
+          class="mdscp-footer-top-col"
+        >
+          <h4>
+            Membership
+          </h4>
+          
+          <a
+            href="https://profreg.medscape.com/px/registration.do?lang=en"
+          >
+            Become a Member
+          </a>
+          
+        </div>
+        <div
+          class="mdscp-footer-top-col"
+        >
+          <h4>
+            <a
+              href="http://www.medscape.com/public/applanding"
+            >
+               App 
+            </a>
+          </h4>
+          
+          <a
+            href="http://www.medscape.com/public/medscapeapp"
+          >
+            Medscape
+          </a>
+          
+        </div>
+        <div
+          class="mdscp-footer-top-col"
+          style="display: none;"
+        >
+          <h4>
+            <span
+              class="text-transform-none"
+            >
+               WebMD Network 
+            </span>
+          </h4>
+          
+          <a
+            href="http://www.webmd.com/"
+          >
+            WebMD
+          </a>
+          
+        </div>
+        <div
+          class="mdscp-footer-top-col"
+        >
+          <h4>
+            Editions
+          </h4>
+          
+          <a
+            href="http://www.webmd.com/"
+          >
+            English
+          </a>
+          <a
+            href="http://www.deutsch.webmd.com/"
+          >
+            Deutsch
+          </a>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="mdscp-footer-btm"
+  >
+    <div
+      class="mdscp-footer-btm-legal mdscp-footer-top-container"
+    >
+      All material on this website is protected by copyright, Copyright © 1994-2022 by WebMD LLC. This website also contains material copyrighted by 3rd parties.
+    </div>
+  </div>
+</div>
+`;

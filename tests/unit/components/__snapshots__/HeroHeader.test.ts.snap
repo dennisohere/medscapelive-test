@@ -1,0 +1,45 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HeroHeader.vue > render > matches the snapshot 1`] = `
+<div
+  class="hero-header_wrapper"
+>
+  <v-img-stub
+    absolute="false"
+    alt="some alt"
+    class="hero-header_bg-image"
+    cover="true"
+    data-test="hero-header__hero-img"
+    eager="false"
+    inline="false"
+    options="[object Object]"
+    src="yomommas-img-src"
+    srcset="yommommas-src-set"
+    tile="false"
+    title="some title"
+    transition="fade-transition"
+  />
+  <div
+    class="top"
+    data-test="hero-header__header"
+  >
+    <router-link
+      to="/"
+    >
+      <img
+        alt="white logo of medscape live events"
+        src="/static_vue/medscape-live-web/img/medscape-live-white.png"
+        title="white medscape live logo"
+      />
+    </router-link>
+    
+    
+  </div>
+  <div
+    class="content"
+  >
+    
+    
+  </div>
+</div>
+`;
